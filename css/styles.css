@@ -36,3 +36,19 @@ body img {
   font-size: 25px;
 
 }
+
+@media screen and (max-width: 480px) and (min-width: 300px) {
+  .adoption-1 {
+    background-color: yellow;
+  }
+  .adoption-2 {
+    background-color: green;
+  }
+  .adoption-3 {
+    background-color: blue;
+  }
+}
+
+@media screen and (max-width: 1000px) and (min-width: 700px) {
+
+}
