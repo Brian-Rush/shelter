@@ -1,0 +1,38 @@
+.adoption-1 {
+  float: left;
+  width: 300px;
+  padding: 20px;
+  background-color: blue;
+}
+.adoption-2 {
+  float: left;
+  width: 300px;
+  padding: 20px;
+  background-color: yellow;
+}
+.adoption-3 {
+  float: left;
+  width: 300px;
+  padding: 20px;
+  background-color: green;
+}
+.adoption-1 p {
+  color: white;
+}
+.adoption-2 p{
+  color: red;
+}
+.adoption-3 p{
+  color: yellow;
+}
+body {
+  margin-left: 20px;
+}
+body img {
+  max-width: 300px;
+}
+
+.header p {
+  font-size: 25px;
+
+}
